@@ -5,6 +5,9 @@ public class Testcheckin3 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is auto execution");
+		System.out.println("This is Auto Execition from GIT");	
+		
+		
 
 	}
 
